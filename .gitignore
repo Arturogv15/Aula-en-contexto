@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Proyecto
+data/audio/
+.venv/
+
 # Distribution / packaging
 .Python
 build/
